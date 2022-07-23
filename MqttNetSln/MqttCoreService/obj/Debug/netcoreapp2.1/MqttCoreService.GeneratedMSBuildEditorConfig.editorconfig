@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MqttCoreService
+build_property.ProjectDir = D:\netcore\MqttNetSln\MqttNetSln\MqttCoreService\

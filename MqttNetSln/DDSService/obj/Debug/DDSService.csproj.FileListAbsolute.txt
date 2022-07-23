@@ -1,0 +1,9 @@
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\bin\Debug\DDSService.exe.config
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\bin\Debug\DDSService.exe
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\bin\Debug\DDSService.pdb
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.csprojAssemblyReference.cache
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.Properties.Resources.resources
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.csproj.GenerateResource.cache
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.csproj.CoreCompileInputs.cache
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.exe
+D:\mqtt\MqttNetSln\MqttNetSln\DDSService\obj\Debug\DDSService.pdb
